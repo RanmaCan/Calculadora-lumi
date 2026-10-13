@@ -1,0 +1,17 @@
+{
+  "name": "Calculadora Lumi",
+  "short_name": "Lumi",
+  "description": "Calculadora con una cantante animada que habla, canta y cambia de pose con cada tecla.",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#2a1b5c",
+  "theme_color": "#2a1b5c",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
